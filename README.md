@@ -1,2 +1,2 @@
 # Fan-Game
-im making a fan game using javascript but im comfused on why something isn't working.
+Im making a fan game using javascript, but I'm confused on why the createSprite thing isn't working. Is it an unnecessary step, or did I learn it wrong?
